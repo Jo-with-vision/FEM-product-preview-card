@@ -11,7 +11,7 @@ This is a solution to the [Product Review Card Challenge](). Frontend Mentor cha
 
 ### Screenshot
 
-![.\images\screenshot.jpeg](.\images\screenshot.jpeg)
+![./images/screenshot.jpeg](./images/screenshot.jpeg)
 
 
 ### Links
