@@ -11,12 +11,12 @@ This is a solution to the [Product Review Card Challenge](). Frontend Mentor cha
 
 ### Screenshot
 
-![]()
+![.\images\screenshot.jpeg](.\images\screenshot.jpeg)
 
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://jo-with-vision.github.io/FEM-product-preview-card/](https://jo-with-vision.github.io/FEM-product-preview-card/)
 
 
 
